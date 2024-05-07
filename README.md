@@ -18,7 +18,7 @@
 #### Clone this repository
 
 ```
-git clone https://github.com/M3RFR3T/Razenager-modded.git
+git clone https://github.com/razeleakers/Razenager-modded.git
 
 ```
 
