@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Razenager-modded")]
 [assembly: AssemblyDescription("M3RFR3T | Razenager-modded v1.0")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("github.com/M3RFR3T")]
+[assembly: AssemblyCompany("github.com/RazeLeakers")]
 [assembly: AssemblyProduct("Razenager-modded")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
