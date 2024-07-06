@@ -16,7 +16,7 @@ namespace Razenager_modded
 
         static void Main(string[] args)
         {
-            Console.Title = "github.com/M3RFR3T | Razenager-modded";
+            Console.Title = "Razenager-modded | BY M3RFR3T | github.com/RazeLeakers";
             string opc = string.Empty;
 
             do
