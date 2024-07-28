@@ -39,7 +39,7 @@ Update-Package -Reinstall
 <p>Info/grades:</p>
 
 - [2] Show Info: Obtendras sus datos personales: DNI, nombre completo, fecha de nacimiento, contacto personal, etc.
-- [3] Show grades: Obtendras la informacion de los cursos que llevo, sus notas y promedio final
+- [3] Show grades: Obtendras la informacion de los cursos que llevo, sus notas y promedio final.
 
 <div style="display:flex;">
   <img src="/images/info.png" alt="info" style="width:45%;">
