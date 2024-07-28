@@ -1,47 +1,45 @@
 <h1 align="center"><img src="/images/razenager.png" alt="razenager"></h1>
 <h2 align="center">Razenager-modded v1.0</h2>
 
-## Table of Contents
+## Tabla de contenidos
 
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Descripcion](#descripcion)
+- [Instalacion](#instalacion)
+- [Uso](#uso)
 
-## Description
+## Descripcion
 
-<p>Razenager helps you get information from a <b>UPN</b> student</p>
-<p>I am working on improvements and adding new features</p>
-<p>You are free to modify the code in your own way and test it for educational purposes</p>
+<p>Razenager te ayuda a obtener la informacion del alumno haciendo uso de la <a href="https://aws.amazon.com/es/what-is/api/">API</a> de la <a href="https://www.upn.edu.pe/">UPN</a>(Universidad Privada del Norte)</p>
 
-## Installation
+## Instalacion
 
-#### Clone this repository
+#### Clona este repositorio
 
 ```
 git clone https://github.com/razeleakers/Razenager-modded.git
 
 ```
 
-#### Dependencies
+#### Dependencias
 
-<p>Go to Tools -> NuGet Package Manager -> Package Manager Console</p>
+<p>Ve a herramientas -> Administrador de paquetes NuGet -> Consola de administrador de paquetes</p>
 
 ```
 Update-Package -Reinstall
 
 ```
 
-## Usage
+## Uso
 
-<p>Configuration: By entering the student's token you will be able to access their personal information</p>
+<p>Configuracion: Ingresa el token del alumno para acceder a su informacion personal</p>
 <p><img src="/images/token.png" alt="token"></p>
-<p>Important: This is a console version no form!</p>
+<p>Importante: Esta es una version de consola no formulario como el original</p>
 <p><img src="/images/menu.png" alt="menu"></p>
 
 <p>Info/grades:</p>
 
-- [2] Show Info: You can obtain their personal information such as: DNI, full name, date of birth, contact number, etc.
-- [3] Show grades: You can obtain the grades for all the courses they have taken in each academic term.
+- [2] Show Info: Obtendras sus datos personales: DNI, nombre completo, fecha de nacimiento, contacto personal, etc.
+- [3] Show grades: Obtendras la informacion de los cursos que llevo, sus notas y promedio final
 
 <div style="display:flex;">
   <img src="/images/info.png" alt="info" style="width:45%;">
