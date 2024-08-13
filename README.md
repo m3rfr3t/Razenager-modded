@@ -1,5 +1,5 @@
 <h1 align="center"><img src="/images/razenager.png" alt="razenager"></h1>
-<h2 align="center">Razenager-modded v1.0</h2>
+<h2 align="center">Razenager-modded v1.1</h2>
 
 ## Tabla de contenidos
 
@@ -31,19 +31,24 @@ Update-Package -Reinstall
 
 ## Uso
 
-<p>Configuracion: Ingresa el token del alumno para acceder a su informacion personal</p>
+<p>Configuracion: Ingresa el token del alumno para que puedas acceder a su informacion</p>
 <p><img src="/images/token.png" alt="token"></p>
-<p>Importante: Esta es una version de consola no formulario como el original</p>
+<p>Importante: Esta es una version de consola, no formulario como el original</p>
 <p><img src="/images/menu.png" alt="menu"></p>
 
-<p>Info/grades:</p>
+<p>Tendras la opcion de escoger si ver la informacion ordenada en tablas(como los imagenes) o en <a href="https://www.json.org/json-es.html">JSON</a></p>
 
-- [2] Show Info: Obtendras sus datos personales: DNI, nombre completo, fecha de nacimiento, contacto personal, etc.
-- [3] Show grades: Obtendras la informacion de los cursos que llevo, sus notas y promedio final.
+- [1] Personal Info: Obtendras sus datos personales: DNI, nombre completo, fecha de nacimiento, contacto personal, etc.
+- [2] Historical grades: Obtendras la informacion de los cursos que llevo antes, sus notas y promedio final.
+- [3] Current Courses: Obtendras la informacion de los cursos que esta llevando actualmente.
+
+-> Si quieres podras descargar la informacion que se muestre(descarga solo disponible en JSON por ahora)
 
 <div style="display:flex;">
-  <img src="/images/info.png" alt="info" style="width:45%;">
-  <img src="/images/grades.png" alt="grades" style="width:45%;">
+  <img src="/images/personalInformation.png" alt="personalInformation" style="width:45%;">
+  <img src="/images/historicalGrades.png" alt="historicalGrades" style="width:45%;">
+  <img src="/images/currentCourses.png" alt="currentCourses" style="width:45%;">
+  <img src="/images/download.png" alt="download" style="width:45%;">
 </div>
 
 ##
