@@ -9,7 +9,7 @@
 
 ## Descripcion
 
-<p>Razenager te ayuda a obtener la informacion del alumno haciendo uso de la <a href="https://aws.amazon.com/es/what-is/api/">API</a> de la <a href="https://www.upn.edu.pe/">UPN</a>(Universidad Privada del Norte)</p>
+Razenager te ayuda a obtener la informacion del alumno haciendo uso de la <a href="https://aws.amazon.com/es/what-is/api/">API</a> de la <a href="https://www.upn.edu.pe/">UPN</a>(Universidad Privada del Norte)
 
 ## Instalacion
 
@@ -22,7 +22,7 @@ git clone https://github.com/razeleakers/Razenager-modded.git
 
 #### Dependencias
 
-<p>Ve a herramientas -> Administrador de paquetes NuGet -> Consola de administrador de paquetes</p>
+Ve a herramientas -> Administrador de paquetes NuGet -> Consola de administrador de paquetes
 
 ```
 Update-Package -Reinstall
@@ -31,12 +31,15 @@ Update-Package -Reinstall
 
 ## Uso
 
-<p>Configuracion: Ingresa el token del alumno para que puedas acceder a su informacion</p>
-<p><img src="/images/token.png" alt="token"></p>
-<p>Importante: Esta es una version de consola, no formulario como el original</p>
-<p><img src="/images/menu.png" alt="menu"></p>
+Configuracion: Ingresa el token del alumno en el archivo "Web/Config.cs"
 
-<p>Tendras la opcion de escoger si ver la informacion ordenada en tablas(como los imagenes) o en <a href="https://www.json.org/json-es.html">JSON</a></p>
+<img src="/images/token.png" alt="token">
+
+Importante: Esta es una version de consola, no formulario como el original
+
+<img src="/images/menu.png" alt="menu">
+
+Tendras la opcion de escoger si ver la informacion ordenada en tablas(como los imagenes) o en <a href="https://www.json.org/json-es.html">JSON</a>
 
 - [1] Personal Info: Obtendras sus datos personales: DNI, nombre completo, fecha de nacimiento, contacto personal, etc.
 - [2] Historical grades: Obtendras la informacion de los cursos que llevo antes, sus notas y promedio final.
