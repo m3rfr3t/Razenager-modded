@@ -56,4 +56,4 @@ Tendras la opcion de escoger si ver la informacion ordenada en tablas(como los i
 
 ##
 
-<h4 align="center">Created by HappyLife modded by M3RFR3T</h1>
+<h4 align="center">Created by Happy Life modded by M3RFR3T</h1>
